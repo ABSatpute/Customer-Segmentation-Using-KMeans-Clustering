@@ -75,7 +75,7 @@
 
   <h2>How to Run</h2>
   <ol>
-    <li>Clone the repository: <code>git clone https://github.com/yourusername/customer-segmentation-kmeans.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/ABSatpute/Customer-Segmentation-Using-KMeans-Clustering.git</code></li>
     <li>Install required libraries: <code>pip install -r requirements.txt</code></li>
     <li>Run the Jupyter notebook to see the analysis and clustering process.</li>
   </ol>
